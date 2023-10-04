@@ -1,0 +1,1 @@
+SELECT * FROM AlquilerPLSQL WHERE id_auto IN (1, 2, 3);
