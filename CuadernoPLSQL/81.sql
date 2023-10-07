@@ -1,0 +1,1 @@
+--- Consulta sin resultado (errónea)
